@@ -1,6 +1,6 @@
 ## Hi there 👋🏼
 
-Frontend Developer* with a background of developing websites that meet WCAG 2.1 AA standards. Practising mobile-first, cross browser, responsive, device agnostic, semantic, W3C compliant, optimised, progressively enhanced ideology that always puts the user first. Well, when allowed and valued by the company. Most of the time all those values get dropped one-by-one.
+Frontend Developer* with a background of developing websites that meet WCAG 2.1 AA standards. Practising mobile-first, cross browser, responsive, device agnostic, semantic, W3C compliant, optimised, progressively enhanced ideology that always puts the user first. Well, when allowed and valued by the company. Sometimes those values get dropped one-by-one in favour of speed, let me know what you need.
 
 *UX Engineer, UI Developer, Frontend Accessibility Developer, Frontend Engineer [who knows what the title is these days](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/).
 
