@@ -4,10 +4,9 @@ Frontend Developer* with a background of developing websites that meet WCAG 2.1 
 
 *UX Engineer, UI Developer, Frontend Accessibility Developer, Frontend Engineer [who knows what the title is these days](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/).
 
-- 🔭 I’m currently working on React, Preact, Storybook, Design Systems
-- 🌱 I’m currently learning React Native and deeper Typescript
-- 👯 I’m looking to collaborate on indie-hacker projects, let's build something
-- 💬 Ask me about Frontend shizz
+- 🔭 I’m currently working on Accessibility, React, Preact, Storybook, Design Systems
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about Accessibility shizz
 - 📫 How to reach me drop a comment
 - 😄 Pronouns: him/he/his
 - ⚡ Boring fact, I like chocolate but not chocolate flavoured stuff
