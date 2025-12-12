@@ -22,7 +22,7 @@ Frontend Developer* with a background of developing websites that meet WCAG 2.1 
 
 Would you be open to accepting one on these:
 
-* [Build an Accessible Design System UI Component](</blog/tabs-design-system-react>) (React, Vite & Storybook) / [Code](https://github.com/chris-gds/primait-design-system-technical)
+* [Build an Accessible Design System UI Component](https://frontend-design-system-primait.netlify.app/) (React, Vite & Storybook) / [Code](https://github.com/chris-gds/primait-design-system-technical)
 * [Checkout, 3-Step application with a React Frontend and PHP Backend](https://ferotechnical.netlify.app/) / [Code](https://github.com/chris-gds/fero)
 * [Car Filtering SPA with React and Material UI](https://auto1technical.netlify.app/) / [Code](https://github.com/chris-gds/auto1)
 * [Combine various APIs into an page with interactions (Svelte)](https://radiant-dolphin-c1e948.netlify.app/) / [Code](https://github.com/chris-gds/agate-test)
