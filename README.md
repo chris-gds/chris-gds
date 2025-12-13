@@ -20,7 +20,7 @@ Frontend Developer* with a background of developing websites that meet WCAG 2.1 
 
 ## We would like you to do a technical test
 
-Would you be open to accepting one on these:
+Would you be open to accepting one of these:
 
 * [Build an Accessible Design System UI Component](https://frontend-design-system-primait.netlify.app/) (React, Vite & Storybook) / [Code](https://github.com/chris-gds/primait-design-system-technical)
 * [Checkout, 3-Step application with a React Frontend and PHP Backend](https://ferotechnical.netlify.app/) / [Code](https://github.com/chris-gds/fero)
