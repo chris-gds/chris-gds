@@ -22,12 +22,10 @@ Frontend Developer* with a background of developing websites that meet WCAG 2.1 
 
 Would you be open to accepting one of these:
 
-* [Build an Accessible Design System UI Component](https://frontend-design-system-primait.netlify.app/) (React, Vite & Storybook) / [Code](https://github.com/chris-gds/primait-design-system-technical)
-* [Checkout, 3-Step application with a React Frontend and PHP Backend](https://ferotechnical.netlify.app/) / [Code](https://github.com/chris-gds/fero)
-* [Car Filtering SPA with React and Material UI](https://auto1technical.netlify.app/) / [Code](https://github.com/chris-gds/auto1)
-* [Combine various APIs into an page with interactions (Svelte)](https://radiant-dolphin-c1e948.netlify.app/) / [Code](https://github.com/chris-gds/agate-test)
-* [Design and build an event selection drop down for order search (Vite + Svelte)](https://spontaneous-mermaid-62ba76.netlify.app/) / [Code](https://github.com/chris-gds/ticket-tailor-filter)
-* [Convert eCom Designs to Frontend with API (Next.js, React, Jest)](https://jlp-fe-test.netlify.app/)
-* [Convert Designs to Mobile Frontend](https://nespresso-technical.netlify.app/) / [Code](https://github.com/chris-gds/nespresso-interview-exercise)
-  
----
+* 🚀 Axate [Combine various APIs into an page with interactions (Svelte)](https://radiant-dolphin-c1e948.netlify.app/) / [Code](https://github.com/chris-gds/agate-test)
+* 🚀 Nespresso [Convert Designs to Mobile Frontend](https://nespresso-technical.netlify.app/) / [Code](https://github.com/chris-gds/nespresso-interview-exercise)
+* 👻 FERO [Checkout, 3-Step application with a React Frontend and PHP Backend](https://ferotechnical.netlify.app/) / [Code](https://github.com/chris-gds/fero)
+* 👻 AUTO1 [Car Filtering SPA with React and Material UI](https://auto1technical.netlify.app/) / [Code](https://github.com/chris-gds/auto1)
+* 👻 Prima [Build an Accessible Design System UI Tab Component](https://frontend-design-system-primait.netlify.app/) (React, Vite & Storybook) / [Code](https://github.com/chris-gds/primait-design-system-technical)
+* 👻 TicketTailor [Design and build an event selection drop down for order search (Vite + Svelte)](https://spontaneous-mermaid-62ba76.netlify.app/) / [Code](https://github.com/chris-gds/ticket-tailor-filter)
+* 👻 John Lewis [Convert eCom Designs to Frontend with API (Next.js, React, Jest)](https://jlp-fe-test.netlify.app/)
