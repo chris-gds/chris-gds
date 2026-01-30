@@ -29,3 +29,4 @@ Would you be open to accepting one of these:
 * 👻 Prima [Build an Accessible Design System UI Tab Component](https://frontend-design-system-primait.netlify.app/) (React, Vite & Storybook) / [Code](https://github.com/chris-gds/primait-design-system-technical)
 * 👻 TicketTailor [Design and build an event selection drop down for order search (Vite + Svelte)](https://spontaneous-mermaid-62ba76.netlify.app/) / [Code](https://github.com/chris-gds/ticket-tailor-filter)
 * 👻 John Lewis [Convert eCom Designs to Frontend with API (Next.js, React, Jest)](https://jlp-fe-test.netlify.app/)
+* ⏳ Wasmer [Convert pixel-perfect Design into UI, intergrate API](https://wasmer-frontend.netlify.app) / [Code](https://github.com/chris-gds/wasmer-frontend)
